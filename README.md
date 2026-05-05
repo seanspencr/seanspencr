@@ -2,3 +2,4 @@
 <h3 align="center">A passionate developer</h3>
 
 <img src="./profile/stats.svg" alt="Stats">
+<img src="./profile/top-langs.svg" alt="Top Language">
